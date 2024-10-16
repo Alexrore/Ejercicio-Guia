@@ -1,0 +1,10 @@
+C:\Users\Alexr\source\repos\Ejercicio guia\Ejercicio guia\bin\Debug\Ejercicio guia.exe.config
+C:\Users\Alexr\source\repos\Ejercicio guia\Ejercicio guia\bin\Debug\Ejercicio guia.exe
+C:\Users\Alexr\source\repos\Ejercicio guia\Ejercicio guia\bin\Debug\Ejercicio guia.pdb
+C:\Users\Alexr\source\repos\Ejercicio guia\Ejercicio guia\obj\Debug\Ejercicio guia.csproj.AssemblyReference.cache
+C:\Users\Alexr\source\repos\Ejercicio guia\Ejercicio guia\obj\Debug\Ejercicio_guia.Form1.resources
+C:\Users\Alexr\source\repos\Ejercicio guia\Ejercicio guia\obj\Debug\Ejercicio_guia.Properties.Resources.resources
+C:\Users\Alexr\source\repos\Ejercicio guia\Ejercicio guia\obj\Debug\Ejercicio guia.csproj.GenerateResource.cache
+C:\Users\Alexr\source\repos\Ejercicio guia\Ejercicio guia\obj\Debug\Ejercicio guia.csproj.CoreCompileInputs.cache
+C:\Users\Alexr\source\repos\Ejercicio guia\Ejercicio guia\obj\Debug\Ejercicio guia.exe
+C:\Users\Alexr\source\repos\Ejercicio guia\Ejercicio guia\obj\Debug\Ejercicio guia.pdb
